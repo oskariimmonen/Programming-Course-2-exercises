@@ -1,0 +1,21 @@
+Hanoi instructions:
+
+
+   Hello and welcome to play some Towers of Hanoi!
+   As a default value we have 6 disks but you are also able to change the amount of them from 2 to 8 disks.(from the settings-menu on the top)
+   At the start all the disks are going to be on the same peg (the left one). Your job is to move them accross the three
+   pegs in a way that they all en up in the middle or in the far right peg in the same order in which they were at the start.
+   Please note that you are not able to move a larger disk on top of a smaller one. Illegal moves are prohibited and you will
+   be noted if you try to make an illegal move!.
+
+   You can move the disks by clicking the left click of your mouse twice: first you choose the peg from which you'd like to
+   move a disk and then you choose the peg you want to transfer it to. You can either click the peg itself or the button below it.
+   The game will end when you achieve to move the disks to another peg in the same order as at the start. If you'd like to play again
+   you can start a new game without closing the app from the menu on the top of the user interface. Option to close the game can also be found there.
+
+
+Extra features:
+- You are able to start a new game when you want to but espescially when you manage to win the game. Yuou don't need to close the game in between games. (5p)
+
+- There is two ways to move the disks: You can choose pegs with your keyboard. A = left peg, S = middle peg and D = right peg. You can move a disk by pressing the correct
+   key to choose the starting peg and then the target peg. For example to move from left to middle press A, then S. (20p)
